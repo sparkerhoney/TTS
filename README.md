@@ -5,7 +5,7 @@ title: Better speech synthesis through scaling
 layout: post
 description: Paper review
 use_math: true
-post-image: https://github.com/sparkerhoney/sparkerhoney.github.io/blob/master/_images/statistics.jpg?raw=true
+post-image: 
 category: statistics
 tags:
   - Data
