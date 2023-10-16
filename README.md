@@ -10,7 +10,6 @@ category: statistics
 tags:
   - Data
   - Science
-  - Statistics
 ---
 # Better speech synthesis through scaling
 ## Abstract
