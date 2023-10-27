@@ -1,4 +1,4 @@
-import soundfile as sf
+cimport soundfile as sf
 from transformers import SpeechT5Processor, SpeechT5ForTextToSpeech, SpeechT5HifiGan
 from datasets import load_dataset
 import torch
