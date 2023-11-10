@@ -2,3 +2,4 @@ flask
 transformers
 soundfile
 datasets
+sentencepiece
