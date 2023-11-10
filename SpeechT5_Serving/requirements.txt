@@ -1,5 +1,4 @@
 flask
 transformers
-sentencepiece
-datasets
 soundfile
+datasets
