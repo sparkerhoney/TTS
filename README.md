@@ -1,5 +1,7 @@
 # TTS
 
+
+
 ---
 title: Better speech synthesis through scaling
 layout: post
